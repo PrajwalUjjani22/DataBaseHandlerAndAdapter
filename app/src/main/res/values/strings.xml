@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBase</string>
+
+    <string name="label_cancel">Cancel</string>
+    <string name="label_submit">Update</string>
+    <string name="label_type_your_comment">Enter Remarks</string>
+    <string name="label_report">Remarks</string>
+    <string name="label_delete">Delete</string>
+</resources>
